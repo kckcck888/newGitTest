@@ -1,0 +1,4 @@
+1. Clone Github
+
+- git clone https:// ...etc (http is from GitHub)
+
